@@ -20,4 +20,4 @@ The objective of the game is to be the first to form a horizontal, vertical, or 
 * The gamer will continue until a winning combination of four is reached by player One or player Two, or until the grid is full and no winning combination was found.
 
 
-*I learnt it from youtube tutorial by Ania Kubow. Do visist her channel for more such exciting games.  
+*I learnt it from youtube tutorial by Ania Kubow. Do visit her channel for more such exciting games.  
